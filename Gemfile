@@ -14,6 +14,7 @@ group :production do
   gem 'pg' , '0.18.2'
   gem 'rails_12factor', '0.0.3'
 end
+gem 'paperclip', '~> 4.3.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
